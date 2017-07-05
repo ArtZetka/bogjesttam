@@ -574,6 +574,9 @@ h6,
 #content1-x BLOCKQUOTE {
   color: #000000;
 }
+#form1-13 .form-control-label {
+  color: #232323;
+}
 #header3-z .mbr-section-title,
 #header3-z .mbr-section-subtitle {
   text-align: center;
